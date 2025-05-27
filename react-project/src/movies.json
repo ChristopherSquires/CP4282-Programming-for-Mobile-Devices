@@ -1,0 +1,8 @@
+{
+    "movielist": [
+        {"name": "Five Nights At CNA", "year": "2025", "rating": "9/10"},
+        {"name": "Five Nights At CNA 2", "year": "2027", "rating": "10/10"},
+        {"name": "Five Nights At CNA: Data Leak", "year": "2030", "rating": "7/10"},
+        {"name": "Five Nights At CNA: Secrets of MUN", "year": "2033", "rating": "8/10"}
+    ]
+}
