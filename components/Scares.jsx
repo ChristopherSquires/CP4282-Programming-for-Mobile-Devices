@@ -1,5 +1,5 @@
 import { Text, View, Image } from "react-native";
-
+// COMMIT
 export default function Jumpscare( {scareData = {}, image} ) {
     const { character, game, animatronics = [] } = scareData;
 
